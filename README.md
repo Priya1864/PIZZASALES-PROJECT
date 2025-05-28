@@ -86,7 +86,8 @@ Small – 21.77%
 The dashboard highlights customer preferences, identifies top-performing products, and uncovers opportunities to boost sales. It provides actionable insights for improving menu strategies and marketing plans.
 
 # Screenshot
-<a href="https://github.com/Priya1864/DATA-ANALAYSIS-DASHBOARD/blob/main/Vrinda%20Store%20Data%20Analysis.csv">"DASHBOARD"</a>
+<a href="https://github.com/Priya1864/PIZZASALES-PROJECT/blob/main/PIZZASALES%20DASHBOARD1%20(1).png">"DASHBOARD1"</a>
+<a href="https://github.com/Priya1864/PIZZASALES-PROJECT/blob/main/PIZZASALES%20DASHBOARD2%20(2).png">"DASHBOARD2"</a>
 
 
 # Contact
